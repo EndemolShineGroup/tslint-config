@@ -32,6 +32,12 @@ Add the following to your project's `tslint.json`:
 }
 ```
 
+Then run:
+
+```bash
+$(yarn bin)/tslint
+```
+
 [icon-license]: https://img.shields.io/github/license/EndemolShineGroup/tslint-config.svg?longCache=true&style=flat-square
 [link-license]: LICENSE
 [icon-npm]: https://img.shields.io/npm/v/@endemolshinegroup/tslint-config.svg?longCache=true&style=flat-square
