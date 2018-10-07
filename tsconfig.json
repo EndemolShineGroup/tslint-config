@@ -1,17 +1,11 @@
 {
   "compilerOptions": {
-    "allowSyntheticDefaultImports": true,
     "declaration": true,
-    "esModuleInterop": true,
-    "lib": [
-      "es2015"
-    ],
     "module": "commonjs",
     "outDir": "./dist",
     "rootDir": "./src",
-    "sourceMap": true,
     "strict": true,
-    "target":"ES2015"
+    "target":"es2015"
   },
   "include": [
     "src/**/*.ts"
@@ -19,7 +13,6 @@
   "exclude": [
     "node_modules",
     "**/*.spec.ts",
-    "**/*.integ.ts",
     "**/__fixtures__/*.*"
   ]
 }

@@ -1,4 +1,4 @@
-import config from '.';
+const config = require('.');
 
 describe('tslint-config', () => {
   it('has a bunch of rules', () => {
