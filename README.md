@@ -1,7 +1,5 @@
 # @endemolshinegroup/tslint-config
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/EndemolShineGroup/tslint-config.svg)](https://greenkeeper.io/)
-
 [![MIT Licensed][icon-license]][link-license]
 [![NPM Version][icon-npm]][link-npm]
 [![Build Status][icon-ci]][link-ci]
@@ -26,10 +24,12 @@ yarn add @endemolshinegroup/tslint-config
 
 ## Usage
 
-```typescript
-import Library from @endemolshinegroup/tslint-config;
+Add the following to your project's `tslint.json`:
 
-const library = new Library();
+```json
+{
+  "extends": "@endemolshinegroup/tslint-config"
+}
 ```
 
 [icon-license]: https://img.shields.io/github/license/EndemolShineGroup/tslint-config.svg?longCache=true&style=flat-square
