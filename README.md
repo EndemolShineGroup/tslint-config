@@ -1,5 +1,7 @@
 # @endemolshinegroup/tslint-config
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/EndemolShineGroup/tslint-config.svg)](https://greenkeeper.io/)
+
 [![MIT Licensed][icon-license]][link-license]
 [![NPM Version][icon-npm]][link-npm]
 [![Build Status][icon-ci]][link-ci]
