@@ -1,7 +1,8 @@
 {
   "defaultSeverity": "warning",
   "extends": [
-    "tslint-config-esg",
+    "tslint-eslint-rules",
+    ".",
     "tslint-config-prettier"
   ]
 }

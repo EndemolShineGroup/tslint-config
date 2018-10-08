@@ -1,4 +1,5 @@
 export = {
+  extends: ['tslint-eslint-rules', 'tslint-config-prettier'],
   rules: {
     /**
      * ES6
