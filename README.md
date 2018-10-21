@@ -19,7 +19,7 @@ TSLint config for Endemol Shine Group repositories
 ## Installation
 
 ```bash
-yarn add @endemolshinegroup/tslint-config
+yarn add -D @endemolshinegroup/tslint-config
 ```
 
 ## Usage
