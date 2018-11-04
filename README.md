@@ -1,4 +1,4 @@
-# @endemolshinegroup/tslint-config
+![Banner][icon-banner]
 
 [![MIT Licensed][icon-license]][link-license]
 [![NPM Version][icon-npm]][link-npm]
@@ -37,6 +37,8 @@ Then run:
 ```bash
 $(yarn bin)/tslint
 ```
+
+[icon-banner]: docs/assets/banner.png
 
 [icon-license]: https://img.shields.io/github/license/EndemolShineGroup/tslint-config.svg?longCache=true&style=flat-square
 [link-license]: LICENSE
